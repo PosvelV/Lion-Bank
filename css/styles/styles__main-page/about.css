@@ -8,7 +8,7 @@
   content: "";
   width: 488px;
   height: 502px;
-  background: url(../../images/chess.png) center center / cover no-repeat;
+  background: url(../../../images/chess.png) center center / cover no-repeat;
 }
 
 .about__description{

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body, html{
+  font-family: "Open Sans", Helvetica, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.42;
+  background: #29282D;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+
+ul, li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+  font-weight: normal;
+}
+
+button{
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  min-width: 1155px;
+}
+
+.main-page-wrapper{
+  background: url(../../images/backgrounds/lion-header.png) center top no-repeat, url(../../images/backgrounds/bottom-pic.png) right bottom 307px no-repeat;
+}
+
+.container{
+  width: 1140px;
+  margin: 0 auto;
+  position: relative;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+}

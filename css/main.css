@@ -1,0 +1,27 @@
+@import url(./layout/base.css);
+@import url(./layout/normalize.css);
+@import url(./layout/page-title.css);
+
+@import url(./styles/styles__main-page/about.css);
+@import url(./styles/styles__main-page/button.css);
+@import url(./styles/styles__main-page/contacts.css);
+@import url(./styles/styles__main-page/footer-container.css);
+@import url(./styles/styles__main-page/footer.css);
+@import url(./styles/styles__main-page/header.css);
+@import url(./styles/styles__main-page/hero.css);
+@import url(./styles/styles__main-page/logotype.css);
+@import url(./styles/styles__main-page/navbar.css);
+@import url(./styles/styles__main-page/news.css);
+@import url(./styles/styles__main-page/offer.css);
+@import url(./styles/styles__main-page/paginator.css);
+@import url(./styles/styles__main-page/section.css);
+@import url(./styles/styles__main-page/social-networks.css);
+
+@import url(./styles/styles__services/top-line.css);
+@import url(./styles/styles__services/container.css);
+@import url(./styles/styles__services/breadcrumbs.css);
+@import url(./styles/styles__services/page-content.css);
+@import url(./styles/styles__services/service.css);
+@import url(./styles/styles__services/inner-section.css);
+@import url(./styles/styles__services/partners.css);
+@import url(./styles/styles__services/inner-footer.css);

@@ -1,0 +1,27 @@
+.hero{
+  margin-bottom: 185px;
+}
+
+.hero__container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 588px;
+}
+
+.hero__content{
+  width: 43%;
+}
+
+.hero__heading{
+  font-size: 58px;
+  font-weight: bold;
+  line-height: 1.13;
+}
+
+.hero__patagraf{
+  font-size: 18px;
+  color: #D3A557;
+  margin-bottom: 39px;
+  margin-top: 22px;
+}

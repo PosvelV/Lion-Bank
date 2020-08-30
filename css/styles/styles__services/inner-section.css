@@ -1,0 +1,15 @@
+.inner-section{
+  background: #ffffff;
+  color: #202020;
+  padding: 87px 0 106px;
+}
+
+.inner-section--bg--gray{
+  background: #F4F5F5;
+}
+
+.inner-section__name{
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 75px;
+}

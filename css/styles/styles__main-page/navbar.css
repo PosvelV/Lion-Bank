@@ -1,0 +1,22 @@
+.navbar{
+}
+
+
+.navbar__item{
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 50px;
+}
+
+.navbar__item--active{
+  color: #D3A557;
+}
+
+.navbar__item:last-child{
+  margin-right: 0;
+}
+
+.navbar__item:hover{
+  color: #D3A557;
+}

@@ -1,0 +1,17 @@
+.section{
+  margin-bottom: 120px;
+}
+
+.section--mb--148px{
+  margin-bottom: 148px;
+}
+
+.section--child--last{
+  margin-bottom: 54px;
+}
+
+.section__title{
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}

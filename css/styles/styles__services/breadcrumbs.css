@@ -12,7 +12,11 @@
 .breadcrumbs__item{
   display: flex;
   align-items: center;
-  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.breadcrumbs__item:last-child{
+  padding-right: 0px;
 }
 
 .breadcrumbs__item--activ .breadcrumbs__link{

@@ -18,8 +18,10 @@
   align-items: center;
   justify-content: center;
   filter: grayscale(100%);
+  transition: .3s;
 }
 
 .partners__link:hover{
   filter: grayscale(0);
+  transition: .3s;
 }

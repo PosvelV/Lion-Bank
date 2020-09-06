@@ -16,6 +16,7 @@
 @import url(./styles/styles__main-page/paginator.css);
 @import url(./styles/styles__main-page/section.css);
 @import url(./styles/styles__main-page/social-networks.css);
+@import url(./styles/styles__main-page/dropdown.css);
 
 @import url(./styles/styles__services/top-line.css);
 @import url(./styles/styles__services/container.css);
@@ -25,3 +26,15 @@
 @import url(./styles/styles__services/inner-section.css);
 @import url(./styles/styles__services/partners.css);
 @import url(./styles/styles__services/inner-footer.css);
+
+@import url(./styles/styles__reviews/review.css);
+@import url(./styles/styles__reviews/avatar.css);
+@import url(./styles/styles__reviews/tag.css);
+@import url(./styles/styles__reviews/reviews.css);
+@import url(./styles/styles__reviews/separator.css);
+@import url(./styles/styles__reviews/form.css);
+@import url(./styles/styles__reviews/controls.css);
+
+@import url(./styles/styles__introduction/introduction.css);
+@import url(./styles/styles__introduction/content.css);
+@import url(./styles/styles__introduction/flare.css);

@@ -1,0 +1,12 @@
+.reviews{
+  column-count: 2;
+  column-gap: 27px;
+}
+
+.reviews__item{
+  margin-bottom: 20px;
+}
+
+.reviews__item:nth-child(2n+1){
+  margin-right: 0px;
+}

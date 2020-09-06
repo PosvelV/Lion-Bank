@@ -15,7 +15,9 @@
   padding-right: 2px;
 }
 
-.breadcrumbs__item:last-child{
+.breadcrumbs__item:last-child {
+  display: flex;
+  align-items: center;
   padding-right: 0px;
 }
 

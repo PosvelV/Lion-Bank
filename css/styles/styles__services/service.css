@@ -1,10 +1,12 @@
 .service{
   display: flex;
   margin-bottom: 106px;
+  transition: .3s;
 }
 
 .service:hover{
   background: #F4F5F5;
+  transition: .3s;
 }
 
 .service:hover .service__button{

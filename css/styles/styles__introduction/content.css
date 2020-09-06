@@ -1,0 +1,36 @@
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: jumping 1.3s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+@keyframes jumping {
+  0 {
+    transform: translateY(0);
+  }
+
+  40%{
+    transform: translateY(-30px);
+    animation-timing-function: cubic-bezier(0,1.13,.52,.97);
+  }
+
+  50%{
+    transform: translateY(0);
+  }
+
+  65%{
+    transform: translateY(-15px);
+  }
+
+  80%{
+    transform: translateY(0px);
+  }
+
+  100%{
+    animation-timing-function: cubic-bezier(.18,.67,.09,.94);
+    opacity: 1;
+  }
+}

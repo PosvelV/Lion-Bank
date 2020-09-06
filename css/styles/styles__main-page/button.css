@@ -8,11 +8,18 @@
   text-transform: uppercase;
   font-size: 14px;
   cursor: pointer;
+  text-align: center;
+  text-transform: capitalize;
+  transition: .3s;
+}
+
+.button--color--gray{
+  background: #8E8E8E;
+  border-radius: 3px;
 }
 
 .button--color--black{
   background: #2B2B2B;
-  box-shadow: 0px 8px 35px rgba(223, 181, 109, 0.35);
   border-radius: 3px;
 }
 
@@ -29,4 +36,5 @@
 
 .button:hover{
   background: #D3A557;
+  transition: .3s;
 }

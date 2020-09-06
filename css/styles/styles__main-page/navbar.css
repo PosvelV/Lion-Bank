@@ -7,6 +7,7 @@
   font-size: 14px;
   vertical-align: middle;
   margin-right: 50px;
+  transition: .3s;
 }
 
 .navbar__item--active{
@@ -19,4 +20,5 @@
 
 .navbar__item:hover{
   color: #D3A557;
+  transition: .3s;
 }

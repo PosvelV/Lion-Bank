@@ -19,9 +19,8 @@
   background: #EDEDED;
   border-radius: 5px;
   padding: 15px 20px;
-  margin-left: 29px;
   top: 100%;
-  left: -9999px;
+  right: -9999px;
   opacity: 0;
   transition: opacity .3s;
 }
@@ -51,6 +50,6 @@
 }
 
 .dropdown:hover .dropdown__menu{ 
-  left: 0;
+  right: 0;
   opacity: 1;
 }

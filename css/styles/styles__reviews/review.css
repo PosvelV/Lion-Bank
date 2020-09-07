@@ -38,6 +38,7 @@
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
+  margin-bottom: -7px;
 }
 
 .review__title{
